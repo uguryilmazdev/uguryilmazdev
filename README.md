@@ -14,10 +14,11 @@ I am currently striving to improve myself as a full stack developer.
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uguryilmazdev&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
 
 ## ✍️ Take a Look
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=uguryilmazdev&show_owner=true&repo=to-do-list)](https://github.com/uguryilmazdev/to-do-list)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=uguryilmazdev&show_owner=true&repo=computer-equipment-inventory)](https://github.com/uguryilmazdev/computer-equipment-inventory)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=uguryilmazdev&show_owner=true&repo=cv-project)](https://github.com/uguryilmazdev/cv-project)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=uguryilmazdev&show_owner=true&repo=shopping-cart)](https://github.com/uguryilmazdev/shopping-cart)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=uguryilmazdev&show_owner=true&repo=computer-equipment-inventory)](https://github.com/uguryilmazdev/computer-equipment-inventory)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=uguryilmazdev&show_owner=true&repo=to-do-list)](https://github.com/uguryilmazdev/to-do-list)
+
 
 ---
 
