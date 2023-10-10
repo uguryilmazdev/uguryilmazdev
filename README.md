@@ -1,7 +1,7 @@
 # Hi there, I'm Uğur! 👋
 
 ## 💫 About Me
-I am currently striving to improve myself as a full stack developer.
+I am currently striving to improve myself as a frontend developer. In my free time, I try to develop backend projects using Node.js and Express.
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/uguryilmazdev) 
